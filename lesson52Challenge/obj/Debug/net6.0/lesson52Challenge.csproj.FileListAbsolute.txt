@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\bin\Debug\net6.0\lesson52Challenge.exe
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\bin\Debug\net6.0\lesson52Challenge.deps.json
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\bin\Debug\net6.0\lesson52Challenge.runtimeconfig.json
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\bin\Debug\net6.0\lesson52Challenge.dll
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\bin\Debug\net6.0\lesson52Challenge.pdb
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.AssemblyInfo.cs
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.dll
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\refint\lesson52Challenge.dll
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.pdb
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\lesson52Challenge.genruntimeconfig.cache
+C:\Users\Mark\source\repos\lesson52Challenge\lesson52Challenge\obj\Debug\net6.0\ref\lesson52Challenge.dll
